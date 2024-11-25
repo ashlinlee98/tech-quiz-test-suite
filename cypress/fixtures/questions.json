@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "1",
+    "question": "What is React?",
+    "answers": [
+      { "text": "A library", "isCorrect": true },
+      { "text": "A framework", "isCorrect": false },
+      { "text": "A programming language", "isCorrect": false },
+      { "text": "A database", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "2",
+    "question": "What does CSS stand for?",
+    "answers": [
+      { "text": "Cascading Style Sheets", "isCorrect": true },
+      { "text": "Creative Style Syntax", "isCorrect": false },
+      { "text": "Computer Style Scripts", "isCorrect": false },
+      { "text": "Cascading Syntax Styles", "isCorrect": false }
+    ]
+  }
+]
