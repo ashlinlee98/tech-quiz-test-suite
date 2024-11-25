@@ -12,6 +12,7 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+  - [Functionality-Video](#functionality-video)
 
   ## Installation
   1. Clone the repository from GitHub.
@@ -50,3 +51,5 @@ You can run the tests by opening Cypress: "npm run test".
   ## Questions
   If you have any questions, feel free to reach out to ashlinlee98 via [GitHub](https://github.com/ashlinlee98) or email at ashlinlee98@gmail.com.
   
+  ## Functionality Video
+  https://drive.google.com/file/d/1MsAYz7w8A7UQHhZruajPEcHf5eGeGkAD/view?usp=sharing
